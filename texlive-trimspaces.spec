@@ -52,3 +52,16 @@ macros.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-2
++ Revision: 757112
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.1-1
++ Revision: 719806
+- texlive-trimspaces
+- texlive-trimspaces
+- texlive-trimspaces
+
