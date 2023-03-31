@@ -1,6 +1,6 @@
 Name:		texlive-trimspaces
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Trim spaces around an argument or within a macro
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/trimspaces
