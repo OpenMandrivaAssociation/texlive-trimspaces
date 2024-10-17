@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Trim spaces around an argument or within a macro
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/trimspaces
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/trimspaces
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/trimspaces.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/trimspaces.doc.r%{version}.tar.xz
